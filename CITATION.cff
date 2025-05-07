@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+author:
+- family-names: "Mielke"
+  given-names: "Simon"
+  orcid: "https://orcid.org/0009-0008-6490-2720"
+title: "Noise Image Generator"
+date-released: 2025-05-07
+url: "https://github.com/SystemSourcer/Noise-image-generator/"
