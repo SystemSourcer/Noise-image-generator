@@ -1,6 +1,6 @@
 """
 Program description:
-Tool to generate noise images
+Tool to generate noise images.
 """
 # Import
 import tqdm
@@ -24,7 +24,7 @@ def nig (width, height, depth):
 if __name__ == '__main__':
     
     width = int(input("Set width:"))
-    height = int(input("Sez height:"))
+    height = int(input("Set height:"))
     depth = int(input("Set depth:"))
 
     num = int(input("Set number images to be generatet:"))
